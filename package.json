@@ -41,7 +41,7 @@
     "devDependencies": {
         "alsatian": "^1.0.0-beta.4",
         "codeclimate-test-reporter": "^0.4.0",
-        "coveralls": "^2.11.15",
+        "coveralls": "^3.0.5",
         "in-publish": "^2.0.0",
         "install-self": "^1.0.0-beta.6",
         "nyc": "^10.0.0",
